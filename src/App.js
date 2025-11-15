@@ -9,6 +9,12 @@ import BackToTopButton from './BackToTopButton';
 
 const projects = [
   {
+    title: "Shpendi Restaurant Website",
+    text: "Frontend restaurant website built entirely with React.Features a modern UI, responsive layout, menu sections, and smooth animations for a clean user experience.. The app fetches data from the OpenWeatherMap API and displays information such as temperature, humidity, wind speed, and weather description. It features a clean and responsive design, making it easy to use on both desktop and mobile devices.",
+    Btext: "React + Vite and Tailwind css Project",
+    URL: "https://www.shpendi-restaurant.mk/"
+  },
+  {
     title: "Platformer Game",
     text: "This is a simple platformer game built with JavaScript and HTML5 Canvas. The game features a character that can jump and move left or right, avoiding obstacles and collecting coins. It showcases basic game mechanics and physics.",
     Btext: "JavaScript Game",
